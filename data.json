@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "phong",
+        "major": "Software"
+    },
+    {
+        "id": 2,
+        "name": "trong",
+        "major": "IT"
+    },
+    {
+        "id": 1,
+        "name": "tuyen",
+        "major": "Constructor"
+    }
+]
